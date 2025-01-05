@@ -1,0 +1,4 @@
+.dropdown-menu {
+  overflow: auto;
+  max-height: 250px;
+}
